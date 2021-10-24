@@ -1,4 +1,4 @@
-# machine_learning 
+# machine_learning_algorithm
 
 linear_regression
 
