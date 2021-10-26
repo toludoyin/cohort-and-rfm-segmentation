@@ -1,5 +1,7 @@
 # machine_learning_algorithm
 
-linear_regression
+linear_regression- regression
 
-Random_forest
+Random_forest- classification
+
+K Means- clustering
