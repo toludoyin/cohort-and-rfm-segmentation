@@ -4,8 +4,8 @@ The online retail dataset from UCI ML repo was collected from kaggle: https://ww
 
 # Methodology
 
-### RFM Segmentation
-In this project I used cohort analysis and RFM metrics to classify customers into different segment. These makes it possible for marketers to target specific customers with communications and also track their transaction performance. The RFM is an acronym for;
+### RFM Analysis
+In this project I used cohort analysis and RFM metrics to classify customers into different segment. These makes it possible for marketers to target specific customers with personalized and differenciated marketing strategies, track transaction performance and make tactical decision. The RFM is an acronym for;
 
 * R - recency, measures when last a customer made a purchase or carry out transactions with the product.
 
