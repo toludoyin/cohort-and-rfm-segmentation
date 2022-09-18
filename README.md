@@ -19,4 +19,4 @@ Cohort Analysis is a tool in behavioural analytics that measures retention and c
 Cohort analysis help the business indentify the highest and lowest cohort over time which will contribute to decision making that will help reduce churn and optimize revenue generation.
 
 # Project Purpose
-The aim of the project is to help the business understand its customers and track transaction performance inorder to improve marketing effort (in terms of customer experience, relationship, communication), loyalty, retention and reduce churn rate that will yield valueable revenue for the business.
+The aim of the project is to help the business understand its customers and track transaction performance inorder to improve marketing effort (in terms of customer experience and satisfaction), loyalty, retention and reduce churn rate that will yield valueable revenue for the business.
