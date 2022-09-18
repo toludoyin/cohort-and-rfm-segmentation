@@ -1,6 +1,6 @@
-# Customer Segmentation
+# Customer Segmentation 😊 😡 🙄 
 ### Introduction
-The online retail dataset from UCI ML repo was collected from kaggle: https://www.kaggle.com/datasets/jihyeseo/online-retail-data-set-from-uci-ml-repo. The dataset content contain a company data that mainly sells unique all-occassion gifts. With majority of the customers been wholesalers.
+[The online retail dataset from UCI ML repo was collected from kaggle:](https://www.kaggle.com/datasets/jihyeseo/online-retail-data-set-from-uci-ml-repo). The dataset content contain a company data that mainly sells unique all-occassion gifts. With majority of the customers been wholesalers.
 
 # Methodology
 
@@ -20,4 +20,3 @@ Cohort analysis help the business indentify the highest and lowest cohort over t
 
 # Project Purpose
 The aim of the project is to help the business understand its customers and track transaction performance inorder to improve marketing effort (in terms of customer experience, relationship, communication), loyalty, retention and reduce churn rate that will yield valueable revenue for the business.
-
