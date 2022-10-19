@@ -1,8 +1,8 @@
-# Customer Segmentation 😊 😡 🙄 
+## Customer Segmentation 😊 😡 🙄 
 ### Introduction
 The online retail dataset from UCI ML repo was collected from kaggle [here](https://www.kaggle.com/datasets/jihyeseo/online-retail-data-set-from-uci-ml-repo). The dataset content contain a company data that mainly sells unique all-occassion gifts. With majority of the customers been wholesalers.
 
-# Methodology
+## Methodology
 
 ### RFM Analysis
 In this project I used cohort analysis and RFM metrics to classify customers into different segment. These makes it possible for marketers to target specific customers with personalized and differenciated marketing strategies, track transaction performance and make tactical decision. The RFM is an acronym for;
@@ -18,5 +18,5 @@ Cohort Analysis is a tool in behavioural analytics that measures retention and c
 
 Cohort analysis help the business indentify the highest and lowest cohort over time which will contribute to decision making that will help reduce churn and optimize revenue generation.
 
-# Project Purpose
+## Project Purpose
 The aim of the project is to help the business understand its customers and track transaction performance inorder to improve marketing effort (in terms of customer experience and satisfaction), loyalty, retention and reduce churn rate that will yield valueable revenue for the business.
