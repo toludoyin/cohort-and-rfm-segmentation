@@ -1,5 +1,5 @@
 * To view the notebook along side its plotly visualisation check [here](https://nbviewer.org/github/toludoyin/segmentation-analysis/blob/main/kmeans-segment/kmeans_clustering.ipynb).
-## KMeans Clustering 😊 😡 🙄
+## KMeans Clustering
 
 [Data source](https://www.kaggle.com/imakash3011/customer-personality-analysis)
 
