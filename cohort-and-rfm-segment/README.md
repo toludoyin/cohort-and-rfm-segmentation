@@ -5,12 +5,10 @@ The online retail dataset was collected from kaggle [here](https://www.kaggle.co
 ## Methodology
 
 ### Cohort Analysis
-Cohort Analysis is a tool in behavioural analytics that measures retention and customer life-time value. It segment customers based on their similarities e.g period of signups which makes it possible to track transaction behaviour and trends of each cohort over time. There are 3 types of cohort; behaviour, time and size cohort.
-
-Cohort analysis helps the business indentify the highest and lowest cohort over time which will contribute to how to make better user decisions by the business in order to reduce churn and optimize revenue generation.
+Cohort Analysis is a tool in behavioural analytics that measures retention and customer life-time value. It segment customers based on their similarities e.g period of signups which makes it possible to track transaction behaviour and trends of each cohort over time. 
 
 ### RFM Analysis
-In this project I used cohort analysis and RFM metrics to categorise customers into different segment. These helps the business understand the transaction performance of each category and how to channel and target specific customers with personalized and differenciated marketing strategies and make tactical decision. The RFM is an acronym for;
+Used RFM metrics to categorise customers into different segment. These helps the business understand the transaction performance of each category and how to channel and target specific customers with personalized marketing strategies and make tactical decision. The RFM is an acronym for;
 
 * R - recency, measures when last a customer made a purchase or carry out transactions with the product.
 
